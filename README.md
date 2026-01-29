@@ -1,5 +1,4 @@
 🌍 Countries Explorer Web App
-
 A dynamic and interactive web application that fetches country data from the REST Countries API and allows users to search, filter, sort, favorite, and explore detailed information about countries around the world.
 
 ✨ Features
@@ -99,10 +98,7 @@ Export favorites
 Accessibility improvements
 
 🧑‍💻 Author
-Your Name
-Front-End Developer
-🌐 Portfolio: your-portfolio-link
-📧 Email: your-email
+Swarna Hema Harshini
 
 📜 License
 This project is open-source and available under the MIT License.
