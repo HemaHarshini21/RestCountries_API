@@ -3,45 +3,29 @@ A dynamic and interactive web application that fetches country data from the RES
 
 ✨ Features
 🔎 Search & Filter
-
 Search countries by name (with live suggestions)
-
 Filter by:
-
 Country code (CCA2 / CCA3)
-
 Capital city
-
 Region
-
 Combined filters work together seamlessly
 
 ⭐ Favorites
-
 Mark countries as favorites
-
 Favorites are saved in localStorage
-
 View only favorite countries
-
 Remove favorites instantly
 
 🔀 Sorting & Highlights
 
 Sort countries by:
-
 Name (A–Z)
-
 Population (highest first)
-
 View Top 10 Most Populated Countries
 
 📊 Country Details Modal
-
 Clicking a country card opens a modal with:
-
 Flag, capital, region, population, and codes
-
 Country Life Index with animated bars:
 Population Power
 Estimated Income
